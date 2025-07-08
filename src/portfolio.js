@@ -111,6 +111,7 @@ export const workExperiences = {
     {
       role: "Data science/ ML Intern",
       company: "Bosch Global Software Technologies",
+      companylogo: require("./assets/images/bgswlogo.png"),
       date: "June 2024 – August 2024",
       descBullets: [
         "Collaborated with cross-functional teams to develop and optimize software algorithms for real-time object detection using CNNs, improving system performance by 25% and reducing processing time by 30%.",
@@ -119,7 +120,8 @@ export const workExperiences = {
     },
     {
       role: "Research Assistant – U.S.-China Strategic Competition",
-      company: "Quora",
+      company: "JMC MSU",
+      companylogo: require("./assets/images/jmclogo.png"),
       date: "May 2025 – Present",
       descBullets: [
         "Standardized and integrated economic, military, and diplomatic indicators for 190+ countries (2013–2020) by building and maintaining multi-source international-relations datasets.",
@@ -130,30 +132,13 @@ export const workExperiences = {
     {
       role: "App Developer",
       company: "MSU New Student Orientation",
+      companylogo: require("./assets/images/msunso.png"),
       date: "May 2024 – Sep 2024",
       descBullets: [
         "Developed the MSU NSO app using JavaScript, React, React Native, and Firebase, enhancing the onboarding experience for over 20,000 new students.",
         "Assisted in planning key student events, conducted interviews, and trained over 100 Spartan Leaders, contributing to a 25% increase in event participation and ensuring a successful NSO program.",
         "Implemented user-focused features while adhering to React best practices, enhancing both iOS and Android user experiences through Xcode and Android Studio environments."
       ]
-    },
-    {
-      role: "Software Engineering Intern",
-      company: "Elsamex Ltd",
-      date: "May 2024 – Jul 2024",
-      desc: "Developed Django & Flask asset management system; improved tracking efficiency by 40%."
-    },
-        {
-      role: "Resident Assistant",
-      company: "Michigan State University",
-      date: "Fall 2024 – Present",
-      desc: "Foster inclusive residential community; plan events; mediate conflicts; support student well-being."
-    },
-  {
-      role: "Undergraduate Learning Assistant",
-      company: "MSU Department of Mathematics",
-      date: "Sep 2023 – Present",
-      desc: "Tutored 120+ students in Calculus; led review sessions and office hours weekly."
     },
   ]
 };
