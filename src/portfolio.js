@@ -181,7 +181,12 @@ export const funFactsSection = {
 };
 
 // Resume & Contact
-export const resumeSection = { display: true };
+
+export const resumeSection = {
+  display: true,
+  resumeLink: "https://drive.google.com/uc?export=download&id=1fzeqhCgNvwt7mWCijsWz-8gBaGv71Djo"
+};
+
 export const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Open to opportunities in SWE, Data Science & Product Management!",
