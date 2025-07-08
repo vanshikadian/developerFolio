@@ -158,14 +158,31 @@ export const workExperiences = {
   ]
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
 
-const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+export const openSource = {
+  display: false
 };
 
+export const publications = {
+  display: false // Set true to display publications section, defaults to false
+};
+export const achievementSection = {
+  display: false // Set true to display publications section, defaults to false
+};
+export const blogSection = {
+  display: false // Set true to display publications section, defaults to false
+};
+export const talkSection = {
+  display: false // Set true to display publications section, defaults to false
+};
+
+export const podcastSection = {
+  display: false // Set true to display publications section, defaults to false
+};
+
+export const twitterSection = {
+  display: false // Set true to display publications section, defaults to false
+};
 // Some big projects you have worked on
 
 export const bigProjects = {
@@ -188,8 +205,6 @@ export const bigProjects = {
     }
   ]
 };
-
-// Achievement Section
 // Include certificates, talks etc
 
 export const funFactsSection = {
