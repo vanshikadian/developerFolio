@@ -156,11 +156,11 @@ export const bigProjects = {
     {
       projectName: "Resume Screening Web App",
       projectDesc: "Flask & Chart.js tool to automate resume evaluation and visualize candidate metrics.",
-      footerLink: [{ name: "GitHub", url: "https://github.com/vanshikadian/resume-screener" }]
+      footerLink: [{ name: "GitHub", url: "https://github.com/vanshikadian/resume-screening-tool" }]
     },
     {
       projectName: "Smart Wardrobe Fashion Tech",
-      projectDesc: "Flutter app for personalized outfit suggestions using weather & style analytics.",
+      projectDesc: "Flutter app for personalized outfit suggestions using weather & style analytics. Work in progress.",
       footerLink: [{ name: "Design Doc", url: "https://link.to/fashion-tech" }]
     }
   ]
