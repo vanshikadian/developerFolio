@@ -76,7 +76,7 @@ export const educationInfo = {
       duration: "August 2022 - May 2026",
       desc: "Minoring in Cognitive Science. Dean's List for 6 consecutive semesters. Member of the MSU Honors College.",
       descBullets: [
-        "Resident Assistant at Owen Hall under RHA.",
+        "Resident Assistant at Owen Hall under REHS.",
         "Member of SWE and WIE.",
       ]
     }
