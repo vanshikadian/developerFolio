@@ -19,9 +19,9 @@ export const illustration = {
 
 export const greeting = {
   username: "Vanshika Kadian",
-  title: "hi everyone, i'm Vanshika",
+  title: "Hi! I'm Vanshika",
   subTitle: emoji(
-    "CS major @ Michigan State University | Software Developer & Data Science Intern | National-level swimmer 🏊‍♀️"
+    "CS major @ Michigan State University | Software Developer| Data Science | National-level swimmer"
   ),
   resumeLink: "https://drive.google.com/drive/u/1/recent",
   displayGreeting: true
@@ -76,7 +76,7 @@ export const educationInfo = {
       desc: "Minoring in Cognitive Science. Dean's List for 6 consecutive semesters. Member of the MSU Honors College.",
       descBullets: [
         "Resident Assistant at Owen Hall under RHA.",
-        "Member of SWE ans WIE.",
+        "Member of SWE and WIE.",
       ]
     }
   ]
