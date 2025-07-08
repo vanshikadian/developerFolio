@@ -23,7 +23,7 @@ export const greeting = {
   subTitle: emoji(
     "CS major @ Michigan State University | Software Developer| Data Science | National-level swimmer"
   ),
-  resumeLink: "https://drive.google.com/drive/u/1/recent",
+  resumeLink: "https://drive.google.com/drive/u/1/home",
   displayGreeting: true
 };
 
