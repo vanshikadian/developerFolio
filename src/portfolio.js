@@ -339,12 +339,7 @@ export {
   workExperiences,
   openSource,
   bigProjects,
-  achievementSection,
-  blogSection,
-  talkSection,
-  podcastSection,
   contactInfo,
-  twitterDetails,
   isHireable,
   resumeSection
 };
