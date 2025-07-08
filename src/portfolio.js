@@ -143,31 +143,6 @@ export const workExperiences = {
   ]
 };
 
-
-export const openSource = {
-  display: false
-};
-
-export const publications = {
-  display: false // Set true to display publications section, defaults to false
-};
-export const achievementSection = {
-  display: false // Set true to display publications section, defaults to false
-};
-export const blogSection = {
-  display: false // Set true to display publications section, defaults to false
-};
-export const talkSection = {
-  display: false // Set true to display publications section, defaults to false
-};
-
-export const podcastSection = {
-  display: false // Set true to display publications section, defaults to false
-};
-
-export const twitterSection = {
-  display: false // Set true to display publications section, defaults to false
-};
 // Some big projects you have worked on
 
 export const bigProjects = {
@@ -214,3 +189,29 @@ export const contactInfo = {
 };
 export const twitterDetails = { display: false };
 export const isHireable = true;
+
+
+export const openSource = {
+  display: false
+};
+
+export const publications = {
+  display: false // Set true to display publications section, defaults to false
+};
+export const achievementSection = {
+  display: false // Set true to display publications section, defaults to false
+};
+export const blogSection = {
+  display: false // Set true to display publications section, defaults to false
+};
+export const talkSection = {
+  display: false // Set true to display publications section, defaults to false
+};
+
+export const podcastSection = {
+  display: false // Set true to display publications section, defaults to false
+};
+
+export const twitterSection = {
+  display: false // Set true to display publications section, defaults to false
+};
