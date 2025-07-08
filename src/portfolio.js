@@ -23,7 +23,7 @@ export const greeting = {
   subTitle: emoji(
     "CS major @ Michigan State University | Software Developer| Data Science | National-level swimmer"
   ),
-  resumeLink: "/Kadian, Vanshika resume swe.pdf",
+  resumeLink: "/resume.pdf",
   displayGreeting: true
 };
 
